@@ -6,7 +6,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=adiboagiu3)
 
-I'm from Romania 🇷🇴, currently based in Cluj-Napoca. I'm passionate about Python, automation, software testing, and building efficient solutions 💻. When I'm not coding or learning new technologies, I enjoy playing video games 🎮, watching sci-fi movies 🎬, traveling ✈️, and exploring how things work in the world around me. I’m always eager to grow, innovate, and contribute to cutting-edge engineering projects!
+I'm from Romania 🇷🇴, currently based in Cluj-Napoca. I'm a huge fan of Python, Java, C#/C/C++, automation, software testing, and building efficient solutions 💻. When I'm not coding or learning new technologies, I enjoy playing video games 🎮, watching sci-fi movies 🎬, traveling ✈️, and exploring how things work in the world around me. I’m always eager to grow, innovate, and contribute to cutting-edge engineering projects!
 
 ## 🌱 I’m currently learning
 
