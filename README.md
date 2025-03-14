@@ -10,8 +10,8 @@ I'm from Romania 🇷🇴, currently based in Cluj-Napoca. I'm passionate about 
 
 ## 🌱 I’m currently learning
 
-[![japanese flag](assets/japanese-flag-round.svg)](https://www.duolingo.com/profile/adiboagiu3)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/adiboagiu3)
+[![japanese flag](assets/japanese-flag-round.webp)](https://www.duolingo.com/profile/adiboagiu3)
+[![spanish flag](assets/spanish-flag-round.webp)](https://www.duolingo.com/profile/adiboagiu3)
 
 <!--
 **adiboagiu3/adiboagiu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
